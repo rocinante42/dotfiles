@@ -1,0 +1,21 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "vim.easymotion": true,
+  "vim.foldfix": true,
+  "editor.minimap.enabled": false,
+  "vim.normalModeKeyBindingsNonRecursive": [
+    {
+      "before": [" "],
+      "after": ["leader", "leader", "leader", "b", "d", "w"]
+    }
+  ],
+  "terminal.integrated.shell.osx": "zsh",
+  "editor.tabSize": 2,
+  "editor.fontSize": 14,
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "workbench.colorTheme": "Night Owl",
+  "editor.formatOnSave": true,
+  "prettier.eslintIntegration": true,
+  "prettier.jsxSingleQuote": true
+}
